@@ -1,27 +1,27 @@
 theme: jekyll-theme-cayman
 remote_theme: just-the-docs/just-the-docs
-title: Design AI
-description: A web course focused on applications of artificial intelligence for design.
+title: Image of the City
+description: An Independent Research Porposal
 permalink: pretty
 color_scheme: dark
 
 # Set which comment system to use
-comments:
+#comments:
   # 'disqus' / 'giscus' / 'utterances' are available
-  provider:            giscus
+  #provider:            giscus
 
   # You must install giscus github app before use.(https://github.com/apps/giscus)
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
-giscus:
-  repo:                "danilnagy/design-ai"
-  repo-id:             "R_kgDOHsLHvg"
-  category:            "Comments"
-  category-id:         "DIC_kwDOHsLHvs4CQYI4"
-  mapping:             "url"
-  reaction-enabled:    "1"
-  theme:               "light"
-  crossorigin:         "anonymous"
+#giscus:
+  #repo:                "danilnagy/design-ai"
+  #repo-id:             "R_kgDOHsLHvg"
+  #category:            "Comments"
+  #category-id:         "DIC_kwDOHsLHvs4CQYI4"
+  #mapping:             "url"
+  #reaction-enabled:    "1"
+  #theme:               "light"
+  #crossorigin:         "anonymous"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -56,7 +56,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Fork me on GitHub":
-    - "//github.com/danilnagy/design-ai/fork"
+    - "//github.com/gv2325/image-of-the-city/fork"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -72,7 +72,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2022 <a href=\"https://github.com/danilnagy\">Danil Nagy</a>. Distributed by an <a href=\"https://github.com/danilnagy/design-ai/blob/gh-pages/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2022 <a href=\"https://github.com/gv2325\">George Verghese</a>. Distributed by an <a href=\"https://github.com/gv2325/image-of-the-city/blob/gh-pages/LICENSE.txt\">MIT license.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
