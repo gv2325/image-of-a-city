@@ -1,0 +1,27 @@
+// https://just-the-docs.github.io/just-the-docs/docs/customization/#override-and-completely-custom-styles
+
+a {
+    color: #0969da;
+}
+
+a:not([class]):hover {
+    background-image: linear-gradient(rgba(9,105,218,0.45) 0%, rgba(9,105,218,0.45) 100%);
+    background-size: 1px 1px;
+}
+
+.nav-list-expander {
+    color: #000000 !important;
+}
+
+.side-bar {
+    background-color: #f5f8fa;
+    border-color: #d0d7de !important;
+}
+
+div.highlighter-rouge {
+    background-color: #f5f8fa;
+}
+
+img {
+    padding: 24px;
+}
