@@ -5,7 +5,6 @@ nav_exclude: true
 ---
 
 # Your name
-great woek!
 
 [My site](https://your-github-id.github.io/design-ai/)
 
