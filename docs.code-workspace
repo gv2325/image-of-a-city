@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "docs",
+			"path": "../../../../Downloads/design-ai-gv2325-gh-pages/design-ai-gv2325-gh-pages/docs"
+		},
+		{
+			"name": "gallery",
+			"path": "../../../../Downloads/design-ai-gv2325-gh-pages/design-ai-gv2325-gh-pages/gallery"
+		},
+		{
+			"name": "src",
+			"path": "../../../../Downloads/design-ai-gv2325-gh-pages/design-ai-gv2325-gh-pages/src"
+		},
+		{
+			"name": ".vscode",
+			"path": "../../../../Downloads/design-ai-gv2325-gh-pages/design-ai-gv2325-gh-pages/.vscode"
+		},
+		{
+			"name": "_layouts",
+			"path": "../../../../Downloads/design-ai-gv2325-gh-pages/design-ai-gv2325-gh-pages/_layouts"
+		},
+		{
+			"name": "_sass",
+			"path": "../../../../Downloads/design-ai-gv2325-gh-pages/design-ai-gv2325-gh-pages/_sass"
+		},
+		{
+			"name": "image-of-a-city",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
