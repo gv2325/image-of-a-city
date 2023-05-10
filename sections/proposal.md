@@ -6,6 +6,8 @@ nav_order: 1
 
 ## Title: Image of the City: An Alternative to Global Positioning System
 
+![](/img/kevinlynch_map.jpg)
+
 ### Aim: Testing a method of geolocation through the image of a city
 
 ### Background:
@@ -13,14 +15,14 @@ The research builds from the capstone project in development within the Design i
 
 ### Methodology:
 Through the process of design thinking, the research intends to build and prototype with the VPS (Geospatial) API to create an interactive augmented reality method to collect and image these images of the city. Using the design thinking process in 6 phases over the course of an intense six weeks of exercise:
-Week 1:    > Conduct user research studies
-Week 2:    > Defining the user problem and current experience 
-Week 3:    > Ideate on the interaction between the users and the application
-Week 4:    > Build the prototype and test the interface with users
-Week 5:    > Iterate on the feedback from the users
-Week 6:    > Findings culminating the prototype with a website
+Week 1:    > Conduct user research studies <br/>
+Week 2:    > Defining the user problem and current experience <br/>
+Week 3:    > Ideate on the interaction between the users and the application<br/>
+Week 4:    > Build the prototype and test the interface with users<br/>
+Week 5:    > Iterate on the feedback from the users<br/>
+Week 6:    > Findings culminating the prototype with a website<br/>
 
 ### Deliverables:
-Prototype - User Application
-Website of the prototype, process, and findings documentation
+Prototype - User Application<br/>
+Website of the prototype, process, and findings documentation<br/>
 
